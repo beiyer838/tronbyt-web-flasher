@@ -7,7 +7,7 @@
       "parts": [
         {
           "path": "tronbyt-S3.bin",
-          "offset": 0
+          "offset": 65536
         }
       ]
     }
