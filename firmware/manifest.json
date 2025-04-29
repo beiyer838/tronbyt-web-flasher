@@ -6,7 +6,7 @@
       "chipFamily": "ESP32-S3",
       "parts": [
         {
-          "path": "tronbyt-S3.bin",
+          "path": "firmware_tronbyt_s3_bdc2b89f.bin",
           "offset": 0
         }
       ]
